@@ -1,5 +1,3 @@
-#Commenting intentionally left out.
-
 setwd("../Desktop")
 dat <- readLines(con = "./Day 2.txt")
 

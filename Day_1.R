@@ -1,5 +1,3 @@
-#Commenting intentionally Left Out
-
 setwd("../Desktop")
 nums <- as.numeric(readLines(con = "./Day 1.txt"))
 
